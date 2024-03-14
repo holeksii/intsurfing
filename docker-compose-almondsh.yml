@@ -6,4 +6,4 @@ services:
     ports:
       - "8888:8888"
     volumes:
-      - /home/oleksii/dev/scala/interview/intsurfing/:/host/storage/
+      - /full/path/to/your/project/dir/:/host/storage/
